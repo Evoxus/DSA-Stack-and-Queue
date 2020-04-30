@@ -196,3 +196,6 @@ numStack.push(55);
 console.log('**** stackSort test case ****');
 console.log(JSON.stringify(stackSort(numStack)));
 
+module.exports = {
+  Stack,
+}
